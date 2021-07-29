@@ -1,2 +1,5 @@
 # ST-ML-SV-app
-This web app demonstrates Streamlit, Machine Learning and Sweetviz.
+Version 2.0 incorporates additional expansion to Machine Learning section and other functionality.
+
+- User Login session
+- Machine Learning (Regression & Clustering)
