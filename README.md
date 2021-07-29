@@ -1,2 +1,2 @@
 # ST-ML-SV-app
-This web app demonstrates Streamlit, Machine Learning and Sweetviz.
+This web application demonstrates Streamlit, Machine Learning and Sweetviz.
