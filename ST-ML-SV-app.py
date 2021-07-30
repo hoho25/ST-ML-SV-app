@@ -40,7 +40,7 @@ def main():
     ###########################
     load_login = dill.load(open('login.pkl', 'rb'))
     access = load_login()
-
+    
     if access:
         pages = ['Overview', 'Streamlit Introduction 👑', 'Machine Learning 🤖', 'Data Visualization (SweetViz) 📊']
         option = st.sidebar.selectbox('Select a Web App Demo', pages, 0) # Preselect Overview
